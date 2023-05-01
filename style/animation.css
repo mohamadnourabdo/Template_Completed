@@ -1,33 +1,33 @@
 @keyframes left-right {
-    from {
-        left: 10px;
-    }
-    to {
-        left: 20px;
-    }
+  from {
+    left: 10px;
+  }
+  to {
+    left: 20px;
+  }
 }
 @keyframes right-left {
-    from {
-        right: 10px;
-    }
+  from {
+    right: 10px;
+  }
 
-    to {
-        right: 20px;
-    }
+  to {
+    right: 20px;
+  }
 }
 @keyframes image-move {
-    from {
-        box-shadow: 0px 0px 0px 0px var(--MainColor);
-}
-    to {
-        box-shadow: 0px 0px 10px 22px white;
-}
+  from {
+    box-shadow: 0px 0px 0px 0px var(--MainColor);
+  }
+  to {
+    box-shadow: 0px 0px 10px 22px white;
+  }
 }
 @keyframes letter-spacing {
-    from {
-        letter-spacing: 0px;
-    }
-    to {
-        letter-spacing: 5px;
-    }
+  from {
+    letter-spacing: 0px;
+  }
+  to {
+    letter-spacing: 5px;
+  }
 }
